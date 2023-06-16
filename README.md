@@ -1,6 +1,6 @@
 <div align="center">
 
-# OutfitHub Mobile
+# Outfithub Mobile
 
 </div>
 
