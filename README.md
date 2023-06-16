@@ -7,7 +7,7 @@
 <br>
 
 ## UI Design
-You can check our <a href="https://documenter.getpostman.com/">UI Design</a> using Figma.
+You can check our <a href="https://www.figma.com/file/YbXoTCZjpo8A4l5JR5zPno/Untitled?type=design">UI Design</a> using Figma.
 
 <br>
 
